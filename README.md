@@ -1,6 +1,9 @@
 # Spring Boot MySQL Zemoga Homework
 
-This application was developed to demonstrate Spring Boot integration with Twitter for the Zemoga company
+This application was developed to demonstrate Spring Boot integration with Twitter for the Zemoga company.
+
+The development of this application took 3 hours from the start of the implementation to the development of the installation documentation.
+
 
 Technologies Used
 
